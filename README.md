@@ -17,3 +17,5 @@ https://newerk.github.io/sign-up-form
 https://newerk.github.io/admin-dashboard
 
 https://newerk.github.io/library/
+
+https://newerk.github.io/restaurant-page
