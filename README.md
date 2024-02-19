@@ -1,5 +1,5 @@
 # Active-Github-Pages
-Serves as an easy way to access all my github pages.
+List of all active my github sites.
 These pages are ordered from oldest to newest
 
 https://newerk.github.io/odin_recipes/
@@ -23,3 +23,11 @@ https://newerk.github.io/restaurant-page
 https://newerk.github.io/todo-list/
 
 https://newerk.github.io/weather-app/
+
+https://newerk.github.io/battleship/
+
+cv-app-black.vercel.app
+
+memory-card-game-kappa-roan.vercel.app
+
+shopping-cart-beta-azure.vercel.app
