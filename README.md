@@ -26,8 +26,8 @@ https://newerk.github.io/weather-app/
 
 https://newerk.github.io/battleship/
 
-cv-app-black.vercel.app
+https://cv-app-black.vercel.app
 
-memory-card-game-kappa-roan.vercel.app
+https://memory-card-game-kappa-roan.vercel.app
 
-shopping-cart-beta-azure.vercel.app
+https://shopping-cart-beta-azure.vercel.app
